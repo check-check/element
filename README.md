@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="" src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
+  <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
 </p>
 
 <p align="center">
